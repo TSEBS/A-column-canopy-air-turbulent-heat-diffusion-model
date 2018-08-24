@@ -19,5 +19,7 @@ Email:x.chen@itpcas.ac.cn
 Reference list:
 
 Chen X., Su, Z., Ma, Y., Yang, K., and Wang, B., 2013: Estimation of surface energy fluxes under complex terrain of Mt. Qomolangma over the Tibetan Plateau, Hydrol. Earth Syst. Sci. Discuss., 9: 10411-10445.
+
 Chen X., Su, Z., Ma, Y., Yang, K., Wen, J., Zhang Y., 2013, An Improvement of Roughness Height Parameterization of the Surface Energy Balance System (SEBS) over the Tibetan Plateau, Journal of Applied Meteorology and Climatology (in publishing).URL: http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-12-056.1
+
 Chen X. et al. A column canopy-air 1 turbulent diffusion method for different canopy structures, submitted.
