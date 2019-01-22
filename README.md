@@ -22,4 +22,4 @@ Chen X., Su, Z., Ma, Y., Yang, K., and Wang, B., 2013: Estimation of surface ene
 
 Chen X., Su, Z., Ma, Y., Yang, K., Wen, J., Zhang Y., 2013, An Improvement of Roughness Height Parameterization of the Surface Energy Balance System (SEBS) over the Tibetan Plateau, Journal of Applied Meteorology and Climatology (in publishing).URL: http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-12-056.1
 
-Chen X. et al. A column canopy-air 1 turbulent diffusion method for different canopy structures, submitted.
+Chen, X., Massman, W. J., & Su, Z.，2019. A column canopy‐air turbulent diffusion method for different canopy structures. Journal of Geophysical Research: Atmospheres, 124. https://doi.org/10.1029/2018JD028883
